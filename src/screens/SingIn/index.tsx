@@ -16,11 +16,7 @@ export function SingIn () {
 
     return (
     <View style={styles.container}>
-        <StatusBar
-            barStyle="light-content"
-            backgroundColor="transparent"
-            translucent
-        />
+        
         <Image 
         source={IllustratorImage}
         style={styles.image}
