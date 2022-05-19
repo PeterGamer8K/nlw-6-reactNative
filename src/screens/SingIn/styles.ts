@@ -10,7 +10,7 @@ export const styles = StyleSheet.create({
     },
     image: {
         width: "100%",
-        heading: 360,
+        height: 360,
     
     },
     content: {
